@@ -14,3 +14,5 @@ function App() {
 }
 
 export default App;
+
+// npm install @testing-library/react @testing-library/jest-dom --save-dev
